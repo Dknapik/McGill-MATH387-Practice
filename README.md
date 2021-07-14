@@ -1,3 +1,3 @@
-# McGill University MATH 387 (Honours Numerical Analysis)
-Handwritten solutions to practice problems for Math 387 theory portion of exam.
+# [McGill University] MATH387 Honours Numerical Analysis
+Some handwritten solutions to practice problems for the theory portion of exam.
 
